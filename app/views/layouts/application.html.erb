@@ -22,7 +22,9 @@
       <ul class="navbar-nav pull-xs-right">
         <% if user_signed_in? %>
           <li class="nav-item">
-            <%= link_to "Выход", destroy_user_session_path, method: :delete, class: "nav-link" %>
+            <%= link_to "Log out", destroy_user_session_path,:method => :delete %>
+
+
           </li>
         <% else %>
           <li class="nav-item">
@@ -33,13 +35,13 @@
           </li>
         <% end %>
       </ul>
-    <%= link_to "Новая статья", new_post_path, class: 'btn btn-outline-primary pull-xs-right' %>
   </nav>
   </div>
 
   <div class="container main">
     <div class="row">
-         <div class="col-md-12">
+         <div class="col-md-12">config.sign_out_via = :get
+
            <% flash.each do |name, message| %>
             <div class="alert alert-<%= name %>">
               <%= message %>

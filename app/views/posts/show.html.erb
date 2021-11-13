@@ -1,17 +1,19 @@
 <article class="post">
-  <section class="post-head">
-    <h1><%= @post.title %></h1>
-    <small>
+<section class="post-head">
+  <h1><%= @post.title %></h1>
+  <small>
+    <time><%= @post.created_at.to_date.strftime("%d %B") %></time>
+    <% if user_signed_in? && current_user.admin? %>
+      |
+      <%= link_to 'Изменить', edit_admin_post_path(@post) %>
+      |
+      <%= link_to 'Удалить', admin_post_path(@post), method: :delete, data: { confirm: 'Вы уверены?' } %>
+    <% end %>
+  </small>
+</section>
 
-      <time><%= @post.created_at.to_date.strftime("%d %B")%></time>
-
-      <%= link_to 'Изменить', edit_post_path(@post) %>
-      <%= link_to 'Удалить', post_path(@post), method: :delete, data: { confirm: "вы уверены?"}  %>
-    </small>
-  </section>
-
-<section>
-  <%= image_tag @post.image.url(:large), class: 'img-show' if @post.image? %>
-  <%= @post.body.html_safe? %>
+<section class="post-body">
+  <%= image_tag @post.image.url(:thumb), class: 'img-show' if @post.image? %>
+  <%= @post.body.html_safe %>
 </section>
 </article>

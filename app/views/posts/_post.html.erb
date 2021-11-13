@@ -3,8 +3,8 @@
     <h2> <%= link_to post.title, post_path(post) %></h2>
     <small>
       <time><%= post.created_at.to_date.strftime("%d %B")%></time>
-      | <%= link_to 'Изменить', edit_post_path(post) %>
-      | <%= link_to 'Удалить', edit_post_path(post), method: :delete, date: { confirm: "Удалить"} %>
+      | <%= link_to 'Изменить', edit_admin_post_path(post) %>
+      | <%= link_to 'Удалить', admin_post_path(post), method: :delete, date: { confirm: "Удалить"} %>
 
     </small>
   </section>
