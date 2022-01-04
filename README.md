@@ -1,4 +1,4 @@
 #  Hey 👋🏻 
 
-I'm Anton, a developer passionate about 
-this amazing world of technology.
+I'm Anton, studying at the university. <br/>
+Work in the IT world. 
