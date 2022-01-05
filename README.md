@@ -1,24 +1,35 @@
-# README
+# Hey 👋🏻 
+![](https://komarev.com/ghpvc/?username=your-github-HarshBarash&color=grey) [![Github](https://img.shields.io/github/followers/HarshBarash?label=Follow&style=social)](https://github.com/HarshBarash)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+I'm Anton, studying at the university. <br/>
+Work in the IT world. 
 
-* Ruby version
+I'm a self-taught student, friendly and positive. <br />
+I like to travel by bike and lead an active lifestyle.
 
-* System dependencies
+   <li>🎓 Fullstack developer (Backend/Android) </li>
+   <li>🎯 I’m turning my ideas into reality </li>
+   <li>📚 I'm studying Ruby + Rails | Kotlin + Android </li>
+   <li>💬 You can ask me questions, I like to help! </li>
 
-* Configuration
+<br/>
 
-* Database creation
+<details>
+    <summary> GitHub stats</summary>
+    <br />
+  
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
+   
+   <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=HarshBarash&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
+    </p>
 
-* Database initialization
+</details>
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Find me around the web 🌎 <a href="https://github.com//HarshBarash"><img align="right" width="150" height="150" src=""></a>
+<li> <a href="https://t.me/HarshBarash"> Telegram </a> </li>
+<li> <a href="https://linkedin.com/in/HarshBarash"> LinkedIn </a> </li>
+<li> <a href="https://www.instagram.com/harsh.barash/"> Instagram </a> </li>
