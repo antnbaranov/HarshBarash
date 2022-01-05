@@ -1,4 +1,6 @@
 # Hey 👋🏻 
+![](https://komarev.com/ghpvc/?username=your-github-HarshBarash&color=grey) [![Github](https://img.shields.io/github/followers/HarshBarash?label=Follow&style=social)](https://github.com/HarshBarash)
+
 
 I'm Anton, studying at the university. <br/>
 Work in the IT world. 
