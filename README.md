@@ -16,6 +16,19 @@ I like to travel by bike and lead an active lifestyle.
 <br/>
 
 <details>
+    <summary> Skills </summary>
+    <br />
+   
+ 
+   <img src="https://github.com/HarshBarash/HarshBarash/blob/master/app/assets/images/skills.png" alt="Hard Skills" />
+
+ 
+   </details>
+
+
+
+
+<details>
     <summary> GitHub stats</summary>
     <br />
   
@@ -27,7 +40,6 @@ I like to travel by bike and lead an active lifestyle.
     </p>
 
 </details>
-
 
 ## Find me around the web 🌎 <a href="https://github.com//HarshBarash"><img align="right" width="175" height="225" src="https://github.com/HarshBarash/HarshBarash/blob/master/app/assets/images/antonbaranov.png"></a>
 <li> <a href="https://t.me/HarshBarash"> Telegram </a> </li>
