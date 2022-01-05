@@ -33,15 +33,17 @@ I like to travel by bike and lead an active lifestyle.
     <br />
   
    <!--START_SECTION:waka-->
+   
 ```text
-No Activity tracked this Week
+Now this activity is classified
 ```
+   
 <!--END_SECTION:waka-->
    
-   <p align="center">
+<!--    <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=HarshBarash&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
     </p>
-
+ -->
 </details>
 
 ## Find me around the web 🌎 <a href="https://github.com//HarshBarash"><img align="right" width="175" height="225" src="https://github.com/HarshBarash/HarshBarash/blob/master/app/assets/images/antonbaranov.png"></a>
