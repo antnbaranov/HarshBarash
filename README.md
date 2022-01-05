@@ -19,8 +19,8 @@ I like to travel by bike and lead an active lifestyle.
     <summary> GitHub stats</summary>
     <br />
   
-   <! - START_SECTION: waka -> 
-   <! - END_SECTION: waka ->
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
    
    <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=HarshBarash&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
