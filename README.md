@@ -1,40 +1,9 @@
 # Hey 👋🏻 
    <!--START_SECTION:waka-->
-![](https://komarev.com/ghpvc/?username=your-github-HarshBarash&color=grey) [![Github](https://img.shields.io/github/followers/HarshBarash?label=Follow&style=social)](https://github.com/HarshBarash)
-   ![Code Time](http://img.shields.io/badge/Code%20Time_today-4%20hrs%2043%20mins-gray)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2021%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-313-blue)
 
-
-I'm Anton, studying at the university. <br/>
-Work in the IT world. 
-
-I'm a self-taught student, friendly and positive. <br />
-I like to travel by bike and lead an active lifestyle.
-
-   <li>🎓 Fullstack developer (Backend/Android) </li>
-   <li>🎯 I’m turning my ideas into reality </li>
-   <li>📚 I'm studying Ruby + Rails | Kotlin + Android </li>
-   <li>💬 You can ask me questions, I like to help! </li>
-
-<br/>
-
-<details>
-    <summary> Skills </summary>
-    <br />
-   
- 
-   <img src="https://github.com/HarshBarash/HarshBarash/blob/master/app/assets/images/skills.png" alt="Hard Skills" />
-
- 
-   </details>
-
-
-
-
-<details>
-    <summary> GitHub stats</summary>
-    <br />
-  
 **🐱 My GitHub Data** 
 
 > 🏆 46 Contributions in the Year 2022
@@ -47,26 +16,25 @@ I like to travel by bike and lead an active lifestyle.
  > 
 > 🔑 18 Private Repositories  
  > 
-   
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
-🌆 Daytime    100 commits    █████░░░░░░░░░░░░░░░░░░░░   22.03% 
-🌃 Evening    220 commits    ████████████░░░░░░░░░░░░░   48.46% 
-🌙 Night      79 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.4%
+🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.09% 
+🌆 Daytime    100 commits    █████░░░░░░░░░░░░░░░░░░░░   21.98% 
+🌃 Evening    221 commits    ████████████░░░░░░░░░░░░░   48.57% 
+🌙 Night      79 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
-Tuesday      62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
-Wednesday    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-Thursday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
-Friday       89 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6% 
-Saturday     86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.94% 
-Sunday       76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.74%
+Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.45% 
+Tuesday      62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
+Wednesday    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Thursday     46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
+Friday       90 commits     █████░░░░░░░░░░░░░░░░░░░░   19.78% 
+Saturday     86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.9% 
+Sunday       76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.7%
 
 ```
 
@@ -104,6 +72,12 @@ Python                   2 repos             █░░░░░░░░░░�
 ```
 
 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/HarshBarash/HarshBarash/master/charts/bar_graph.png) 
+
+
+ Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
