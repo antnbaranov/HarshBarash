@@ -1,5 +1,8 @@
 # Hey 👋🏻 
+   <!--START_SECTION:waka-->
 ![](https://komarev.com/ghpvc/?username=your-github-HarshBarash&color=grey) [![Github](https://img.shields.io/github/followers/HarshBarash?label=Follow&style=social)](https://github.com/HarshBarash)
+   ![Code Time](http://img.shields.io/badge/Code%20Time_today-4%20hrs%2043%20mins-gray)
+
 
 
 I'm Anton, studying at the university. <br/>
@@ -32,11 +35,6 @@ I like to travel by bike and lead an active lifestyle.
     <summary> GitHub stats</summary>
     <br />
   
-   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2043%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-235-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 46 Contributions in the Year 2022
@@ -49,6 +47,7 @@ I like to travel by bike and lead an active lifestyle.
  > 
 > 🔑 18 Private Repositories  
  > 
+   
 **I'm a Night 🦉** 
 
 ```text
@@ -105,12 +104,6 @@ Python                   2 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/HarshBarash/HarshBarash/master/charts/bar_graph.png) 
-
-
- Last Updated on 07/01/2022
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
