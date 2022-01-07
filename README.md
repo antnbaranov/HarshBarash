@@ -33,11 +33,12 @@ I like to travel by bike and lead an active lifestyle.
     <br />
   
    <!--START_SECTION:waka-->
-   
 ```text
-Now this activity is classified
+Ruby             1 hr 11 mins    █████████████████░░░░░░░░   68.00 % 
+ERB              13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Kotlin           13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+GitIgnore file   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
-   
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
