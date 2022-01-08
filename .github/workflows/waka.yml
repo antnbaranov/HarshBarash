@@ -18,3 +18,5 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "True" 
           SHOW_OS: "True"
+          Timeline: "False"
+
