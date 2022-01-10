@@ -45,9 +45,6 @@ I like to travel by bike and lead an active lifestyle.
     <br />
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%207%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-357-blue)
 
 **🐱 My GitHub Data** 
 
