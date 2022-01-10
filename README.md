@@ -31,6 +31,10 @@ I like to travel by bike and lead an active lifestyle.
     <br />
    
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%207%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-357-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 56 Contributions in the Year 2022
@@ -98,6 +102,10 @@ Python                   2 repos             █░░░░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/HarshBarash/HarshBarash/master/charts/bar_graph.png) 
 
 
  Last Updated on 10/01/2022
