@@ -45,6 +45,8 @@ I like to travel by bike and lead an active lifestyle.
     <br />
    
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2016%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 115 Contributions in the Year 2022
@@ -114,7 +116,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2022 16:14:11 UTC
+ Last Updated on 22/01/2022 16:14:58 UTC
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
