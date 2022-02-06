@@ -2,25 +2,15 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-HarshBarash&color=grey) [![Github](https://img.shields.io/github/followers/HarshBarash?label=Follow&style=social)](https://github.com/HarshBarash)
 
-I'm Anton, studying at the university. <br/>
-Work in the IT world. 
-
-I'm a self-taught student, friendly and positive. <br />
-I like to travel by bike and lead an active lifestyle.
-
-   <li>🎓 Fullstack developer (Backend/Android) </li>
-   <li>🎯 I’m turning my ideas into reality </li>
-   <li>📚 I'm studying Ruby + Rails | Kotlin + Android </li>
-   <li>💬 You can ask me questions, I like to help! </li>
-
-<br/>
-
+I'm  Fullstack developer (Rails/Android/UX-UI) 🎓  <br />
+I like to travel by bike, friendly and lead an active lifestyle ⚽ <br />
+You can ask me questions, I speak Russian, German, English and like to help! 💬  <br />
 
 <details>
     <summary> Skills </summary>
    <p>
       <br/>
-      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-            rails&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
