@@ -9,7 +9,9 @@ ru:
     next_label: 'Назад;'
   posts:
     index:
-      title: 'Статьи'
+      tags: "Тэги"
+      title: 'Мысли'
+      opinion: 'Пока ничего не сказано'
   admin:
     posts:
       new:
@@ -19,13 +21,3 @@ ru:
       form:
         submit:
           '%{action} статью'
-    categories:
-      index:
-        title: 'Категории'
-      new:
-        title: 'Новая категория'
-      edit:
-        title: 'Редактирование категории'
-      form:
-        submit:
-          '%{action} категорию'

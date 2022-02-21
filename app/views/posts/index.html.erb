@@ -1,20 +1,29 @@
-<div class="col-md-3">
-  <div class="tag_cloud">
-  <h2>Теги</h2>
-  <% tag_cloud(Tag.counts, %w{tag1 tag2 tag3 tag4 tag5}) do |tag, css_class| %>
-    <%= link_to tag.name, tag_path(tag.name), class: css_class %>
+<div class="container">
+
+
+  <div class="col-md-3 mt-3">
+    <div class="tag_cloud">
+      <h2><%= t('.tags') %></h2>
+      <% tag_cloud(Tag.counts, %w{tag1 tag2 tag3}) do |tag, css_class| %>
+        <%= link_to tag.name, tag_path(tag.name), class: css_class %>
+      <% end %>
+    </div>
+  </div>
+
+
+  <h1 class="mt-3"><%= t('.title') %></h1>
+
+  <% if user_signed_in? && current_user.admin? %>
+    <%= link_to 'Новая статья', new_admin_post_path, class: 'btn btn-outline-primary btn-sm' %>
   <% end %>
+
+  <section id='posts'>
+
+    <% if @posts %>
+      <%= render @posts %>
+    <% else %>
+      <h2><%= t('.opinion') %></h2>
+    <% end %>
+
+  </section>
 </div>
-</div>
-
-<h1><%= t('.title') %></h1>
-
-<% if user_signed_in? && current_user.admin? %>
-  <%= link_to 'Новая статья', new_admin_post_path, class: 'btn btn-outline-primary btn-sm' %>
-<% end %>
-
-<section id='posts'>
-  <%= render @posts %>
-</section>
-
-<%= will_paginate @posts, renderer: 'BootstrapPaginationHelper::LinkRenderer' %>
