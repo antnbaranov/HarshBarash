@@ -1,7 +1,5 @@
-class Admin::PostsController < ApplicationController
-  before_action :authenticate_user!
-  before_action :set_post, only:  [ :edit, :update, :destroy]
-
+class Admin::PostsController < Admin::AdminController
+  before_action :set_post, only: [ :edit, :update, :destroy ]
 
   def new
     @post = Post.new
@@ -10,8 +8,9 @@ class Admin::PostsController < ApplicationController
   def create
     @post = Post.new(post_params)
     if @post.save
-      redirect_to @post
+      redirect_to @post, success: 'Статья успешно создана'
     else
+      flash.now[:danger] = 'Статья не создана'
       render :new
     end
   end
@@ -20,18 +19,18 @@ class Admin::PostsController < ApplicationController
   end
 
   def update
-    if @post.update(post_params)
-      redirect_to [:admin, @post], info: 'Статья обновлена'
+    if @post.update_attributes(post_params)
+      redirect_to @post, success: 'Статья успешно обновлена'
     else
+      flash.now[:danger] = 'Статья не обновлена'
       render :edit
     end
   end
 
   def destroy
     @post.destroy
-    redirect_to posts_path
+    redirect_to posts_path, success: 'Статья успешно удалена'
   end
-
 
   private
 
@@ -40,8 +39,6 @@ class Admin::PostsController < ApplicationController
   end
 
   def post_params
-    params.require(:post).permit(:title, :summary, :body, :image, :all_tags)
+    params.require(:post).permit(:title, :summary, :body, :image, :all_tags, :category_id)
   end
-
-
 end
