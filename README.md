@@ -35,13 +35,11 @@ You can ask me questions, I speak Russian, German, English and like to help! �
     <br />
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2057%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 301 Contributions in the Year 2022
+> 🏆 303 Contributions in the Year 2022
  > 
-> 📦 288.7 kB Used in GitHub's Storage 
+> 📦 288.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -105,7 +103,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/03/2022 16:16:11 UTC
+ Last Updated on 08/03/2022 16:15:58 UTC
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
