@@ -35,7 +35,6 @@ You can ask me questions, I speak Russian, German, English and like to help! ğŸ’
     <br />
    
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2035%20mins-blue)
 
 **ğŸ± My GitHub Data** 
 
