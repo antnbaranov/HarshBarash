@@ -39,7 +39,7 @@ You can ask me questions, I speak Russian, German, English and like to help! �
 
 **🐱 My GitHub Data** 
 
-> 🏆 359 Contributions in the Year 2022
+> 🏆 361 Contributions in the Year 2022
  > 
 > 📦 289.4 kB Used in GitHub's Storage 
  > 
@@ -47,7 +47,7 @@ You can ask me questions, I speak Russian, German, English and like to help! �
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 32 Private Repositories  
+> 🔑 34 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -78,11 +78,11 @@ Sunday       93 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Ruby                     1 hr 49 mins        ███████████████████████░░   94.92% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+Ruby                     1 hr 49 mins        ███████████████████████░░   95.16% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48% 
 GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
-ERB                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
+ERB                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 🔥 Editors: 
 RubyMine                 1 hr 55 mins        █████████████████████████   100.0%
@@ -105,7 +105,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2022 16:17:00 UTC
+ Last Updated on 02/04/2022 16:15:47 UTC
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
