@@ -76,13 +76,13 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ruby                     8 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+RubyMine                 8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -99,7 +99,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2022 16:19:40 UTC
+ Last Updated on 13/05/2022 16:17:46 UTC
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
