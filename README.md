@@ -76,14 +76,13 @@ Sunday       83 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Ruby                     1 hr 51 mins        █████████████████████████   99.91% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-RubyMine                 1 hr 51 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 51 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -100,7 +99,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2022 16:21:53 UTC
+ Last Updated on 18/08/2022 16:23:16 UTC
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
