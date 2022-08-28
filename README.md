@@ -39,7 +39,7 @@ You can ask me questions, I speak Russian, German, English and like to help! �
 
 > 🏆 460 Contributions in the Year 2022
  > 
-> 📦 290.1 kB Used in GitHub's Storage 
+> 📦 290.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -99,7 +99,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2022 16:15:56 UTC
+ Last Updated on 28/08/2022 16:15:37 UTC
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
