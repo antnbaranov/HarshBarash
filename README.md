@@ -39,7 +39,7 @@ You can ask me questions, I speak Russian, German, English and like to help! �
 
 > 🏆 460 Contributions in the Year 2022
  > 
-> 📦 290.0 kB Used in GitHub's Storage 
+> 📦 290.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -76,17 +76,13 @@ Sunday       83 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Haml                     28 mins             ███████████████░░░░░░░░░░   60.38% 
-YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
-Ruby                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
-Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
+No Activity Tracked This Week
 
 🔥 Editors: 
-RubyMine                 47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    47 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,7 +99,7 @@ JavaScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2022 16:20:57 UTC
+ Last Updated on 27/09/2022 16:22:39 UTC
 <!--END_SECTION:waka-->
    
 <!--    <p align="center">
